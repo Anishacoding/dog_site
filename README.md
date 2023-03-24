@@ -1,2 +1,1 @@
-# dog_site
-Site made while attending udemy course
+TinDog Starting Files
